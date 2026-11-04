@@ -1,0 +1,8 @@
+.caixa {
+    box-sizing: border-box;
+    /* Garante que a largura final continue sendo 300px */
+    width: 300px;
+    height: 60px;
+    padding: 20px;
+    border: 2px solid #000;
+}
